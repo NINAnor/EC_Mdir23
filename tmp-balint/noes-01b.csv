@@ -1,0 +1,35 @@
+ect.p,echar,grp,n1,n21,n22,n31,n32,n41,n42,n51,n52,n53,n54,n55,n6,n71,n72,n8a,n8b,nC,nM,nvar,nest,ect.s,r.dir,d.startdate,d.temp.res,d.spat.res,i.etlink,r.opt,novar,estat
+A1,Air physical quality,A1 | Air physical quality,m,,,,,,,,,,,,,,,,,,,0,0,A2,n,,,,,,,!e.a2
+A1,Mean temperature,A1 | Mean temperature,,,,x?,x?,x?,?,1,1,1,1,1?,,,,,,1,2,0,0,B1a,u,2019,5,p2,fo,mod,fj.15,
+A1,Permanent ice cover,A1 | Permanent ice cover,,,,,,,,,,,,v,2 v,,,,,,2,0,0,,p,1966,,px (p2?),(cc),sta,fj.16,e.g1
+A1,Soil physical quality,A1 | Soil physical quality,v,,,,,,,,,,,,,,,,,m,,0,0,C1,n,,,,,,,"!e.i1, e.a3"
+A1,Water physical availability/permanence,A1 | Water physical availability/permanence,,v,,1 v,1 v,1 v,1,1,x,1 v,x v,x,,1 v,1,,,1,x,0,0,B1a B3,npu,,,p2 pp,fo,exp mdc mod,"HR2XSD, QMIN, VANNSTVAR, WIc, sk.03, vs.30, vs.65, vs.66","e.b3, e.e3, e.f1, e.h1, e.h2, e.j1"
+A1,Water physical quality,A1 | Water physical quality,,,,,,,v,,,,,,,,1,1 v,1 v,v,,0,0,A2 B3,np,,1,pp,fo,mdc,SECCI,"e.i1, e.l1, e.m1"
+A2,Air chemical quality,A2 | Air chemical quality,v,,,,,,,,,,,,,,,,,,,0,0,,n,,,,,,,e.a4
+A2,Soil chemical quality,A2 | Soil chemical quality,,v,,1,1,1,?,1,x,1,x,x,,,,,,x,2,0,0,B1a,nu,2019,5,p2,fo,mod,"fj.13, sk.02, vs.03, vs.41, vs.41b",e.b2
+A2,Soil organic carbon,A2 | Soil organic carbon,,x? m,x? m,x? v,x? v,1,,x? v,x? v,x? v,x? v,,,,,,,,,0,0,B3,(p)p,,,?,fo,sta,vs.07,"!e.b1, !e.c1, e.e4, e.f2"
+A2,Water chemical quality: acidification,A2 | Water chemical quality: acidification,,,,,,,,,,,,,,1,1,,v,,,0,0,B1a,np,,1,pp,fo,mdc oth,"AIP, AIndexW5, ANC, LACI-1, LACI-2, LAL, LAMI, MultiClear, PH, RAMI, Raddum-1, Raddum-2, SIc",e.m2
+A2,Water chemical quality: eutrophication,A2 | Water chemical quality: eutrophication,,,,,,v,v,,,,,,,1 v,1 v,1 v,1,,,0,0,B1a,np,,1,pp,fo,"exp exp?, mdc? mdc oth","ASPT, Alegress, Blotbunnsfauna, EIndexW3, HBI2, N-NH3, N-SNOX, N-TOT, O2, P-PO4, P-TOT, PIT, PTI, RSL, TIc","e.h3, e.h4, e.j3, e.j4, e.k1, e.k2, e.l2, e.l3"
+A2,Water chemical quality: other pollutants,A2 | Water chemical quality: other pollutants,,,,,,,,,,,,,,1? v,1? v,1?,1?,,,0,0,A2,p,,1,,fo,,overall chemical status,"e.j6, e.k3"
+B1a B1b,Fish++ abundance,B1a B1b | Fish++ abundance,,,,,,,,,,,,,,1,1,,,,,0,0,,??np,,1,pp,fo,exp mdc oth,"Cpue_BrownTrout, Cpue_juveniles, EMANTLLE, FIBESTE, NEFI, WS-FBI",
+B1a,Birds abundance,B1a | Birds abundance,,,,,,x,,1,1,1,1,1,,,,,,1,2,0,0,,p,2010,1,p2 p2?,cc,?? exp,"fj.04, fj.05, fj.08",
+B1a,Insect abundance,B1a | Insect abundance,,,,1,,,,1,,1,,,,,,,,,,0,0,B2,p,2020,5,p2,fo,??,vs.48,
+B1a,Invasive species abundance,B1a | Invasive species abundance,,,,1,1,1,?,1,1,1,1,1 v,,,,,v,1,2,0,0,,np (n),2019,5,p2,fo,zer,"fj.09, sk.04, vs.29","e.g2, e.m4"
+B1a,Mammals abundance,B1a | Mammals abundance,,,,2,2?,x?,,1,1,1,1,1,,,,,,1,2,0,0,B3,pu,1990,1,p1 p2 p2? px,cc,mod sta (+mod),"fj.02, fj.03, fj.06, fj.07, sk.10, sk.11",
+B1a,Plants abundance,B1a | Plants abundance,,,,2,2,,,,,,,,,,,,,,,0,0,B2,p,1994,5,p2?,fo,mdc,"sk.05, sk.06",
+B1b,Birds diversity,B1b | Birds diversity,,1? m,1? m,v,v,1 v,?,1 v,v,1 v,v,,,,,,,v,,0,0,,p,,,,cc,sta,"vs.13, vs.18","!e.d1, e.e5, e.f3, e.h5, e.i3"
+B1b,Fish diversity,B1b | Fish diversity,,,,,,,,,,,,,,v,v,,,,,0,0,,p,,,,,,,"e.j8, e.k5"
+B1b,Insects diversity,B1b | Insects diversity,,?,? v,1,,1,?,1 v,x v,1,x,x,,,,,,x,x,0,0,B2 B3,p,,,p2,fo,?? exp,"vs.16, vs.17, vs.37, vs.38, vs.44, vs.47, vs.49, vs.50, vs.51, vs.52",e.c4
+B1b,Overall compositional status,B1b | Overall compositional status,,,,1,1?,1,? v,x,x,x,x,x,,v,v,v,v,x v,2,0,0,,p,1990,5,p2,na,na,"fj.12, sk.12, vs.06","e.i2, e.j9, e.k6, e.l5, e.m3"
+B2,"Deadwood, litter","B2 | Deadwood, litter",,,,2 m,2 m,,,,,,,,,,,,,,,0,0,B1b,p,2010,5,p2?,fo,mod,"sk.07, sk.08",!e.e1
+B2,Phytoplankton density,B2 | Phytoplankton density,,,,,,,v,,,,,,,v,1 v,1 v,1,,,0,0,B1a B3,np,,1,pp,fo,mdc,"KLFA, MSMDI, PPBIOMTOVO","e.j5, e.k4, e.l4"
+B2,Total vegetation cover,B2 | Total vegetation cover,1? m,,x,2 v,2? v,1,?,1,x,1 v,x v,x v,?,?,?,,,1,2,0,0,B3 C1,pu,2000,1,g3,so,mdc zer,"fj.01, sk.01","!e.a1, e.e6, e.f4, e.g3"
+B2,Tree & shrub layer cover,B2 | Tree & shrub layer cover,v,,,m,m,1,,1,1,1,1,,,,,,,,,0,0,,np,2010,,g2,so,mdc,"vs.05, vs.28","!e.e2, e.a5"
+B3,Disturbance intensity / ecosystem age,B3 | Disturbance intensity / ecosystem age,,v,v,2,2,1,?,1 v,1,1 v,1 v,1,,,,,v,1,2,0,0,B1a B2 C1,npu,1999,5,p1 p2 p2?,fo,mod zer,"fj.14, sk.09, vs.04, vs.14, vs.41c, vs.41d, vs.64","e.b5, e.c5, e.f5, e.m6"
+B3,Ecosystem productivity,B3 | Ecosystem productivity,,,v,,,,,,,,,,,,,,,,,0,0,,u,,,,,,,e.c6
+B3,Functions underlying key ES,B3 | Functions underlying key ES,v,? v,?,1,,,,1,,1,,,,,1,,v,,,0,0,B1a B2,np,,1,p2 pp,fo,?? mdc,"Cyanomax, vs.45, vs.72","e.a6, e.b6, e.m5"
+B3,Trophic balance,B3 | Trophic balance,,,,1,?,,,1,1,1,1,1,,,,,,1,1,0,0,B1a B2,u,,,p1,fo,mod,"vs.11, vs.53, vs.71, vs.74",
+C1,Agricultural landscape features,C1 | Agricultural landscape features,,v,v,,,,,,,,,,,,,,,,,0,0,B2,p,,,,,,,"e.b7, e.b8, e.c7, e.c8"
+C1,Landscape connectivity & fragmentation,C1 | Landscape connectivity & fragmentation,,,,v,v,1,x?,x?,x?,x? v,x? v,x?,x?,1 v,,,,x,2,0,0,,npu,,,pp px (p2?),fo lm,exp mod,"barriereeffekt, fj.11, fragmenteringsgrad, vs.02","e.e7, e.f6, e.j7"
+C1,Landscape naturalness,C1 | Landscape naturalness,,,,2 v,2 v,2,x?,2,2,2 v,2 v,2,x?,x?,x?,,,2,2,0,0,,p,1988,5,p2?,lm,zer,"fj.10, sk.13, vs.02","e.e8, e.f7"
+X,unclear / excluded,X | unclear / excluded,,,v,,,,,,,,,,,1? v,1?,1?,1?,,,0,0,,nu,,1,,fo,,overall ecol status,"e.c3, e.j2"
