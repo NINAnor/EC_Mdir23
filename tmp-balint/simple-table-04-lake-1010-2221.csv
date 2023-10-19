@@ -1,0 +1,32 @@
+i.name.no;Datakilde;Dev.status;Startar;Frekvens (ar);Romlig opplosning;ECT;Egenskap;Samsvar m/tilstand;Ref.verdi
+Areal uten tekniske inngrep;MDir*;1;1988;5;fylke/region;C1;lm;p;zer
+Reguleringshøyde;Various institutes/consultancies + Vannmiljø;2;;1;annet;A1;af;n;exp
+Forholdet mellom reguleringshøyde og siktedyp;Various institutes/consultancies + Vannmiljø;2;;1;annet;A1;af;n;exp
+Siktedyp;Various institutes/consultancies + Vannmiljø;2;;1;annet;A1;af;p;mdc
+Totalt fosfor (Tot-P);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Totalt nitrogen (Tot-N);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Ammoniakk og ammonium;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;exp?, mdc?
+Oksygen (O2);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;exp
+pH - innsjøer og elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;mdc
+Potensielt gift aluminium (LAl, UM-Al) - innsjøer og elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Vannets syrenøytraliserende kapasitet (ANC) - innsjøer og elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;mdc
+TIc: Vannplanteindeks for eutrofiering i innsjøer;NIVA (Marit Mjelde) + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+SIc: Vannplanteindeks for forsuring i innsjøer;NIVA (Marit Mjelde) + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+WIc: Vannplanteindeks for vannstandsvariasjoner i reguleringsmagasin;NIVA (Marit Mjelde) + Vannmiljø;2;;1;annet;A1;bm;p;mdc
+LAMI: Forsuringsindeks for litorale bunndyr i innsjøer;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+Raddum forsuringsindeks-1 - litorale bunndyr i elver og innsjøer;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;bm;p;oth
+MultiClear: Multimetrisk bunndyrindeks for forsuring av klare innsjøer;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+PTI: Planteplankton Trofisk indeks;NIVA (Birger Skjelbred) + Vannmiljø;2;;1;annet;A2;bm;n;mdc
+LACI-1: Forsuringindeks for småkreps i svært kalkfattige innsjøer;NINA (Ann Kristin Schartau) + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+LACI-2: Forsuringindeks for småkreps i kalkfattige innsjøer;NINA (Ann Kristin Schartau) + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+NEFI: Norsk endringsindeks for fisk - elver og innsjøer;NINA  + Vannmiljø;2;;1;annet;B1b;bm;p;mdc
+Bestandsendring fisk;NINA  + Vannmiljø;2;;1;annet;B1b;bm;n;mdc
+EIndexW3: Eutrofieringsindeks for fisk i innsjøer;NINA  + Vannmiljø;2;;1;annet;A2;bm;p;oth
+AIndexW5: Forsuringsindeks for fisk i innsjøer;NINA  + Vannmiljø;2;;1;annet;A2;bm;p;oth
+WS-FBI: Pelagisk fiskeindeks for innsjøer;NINA  + Vannmiljø;2;;1;annet;B1a;bm;p;mdc
+Cpue_aure: Bestandsstørrelse av brunørret relatert til innsjøers oppvekstratio (OR);NINA  + Vannmiljø;2;;1;annet;B1a;bm;p;mdc
+Klorofyll planteplankton;NIVA (Birger Skjelbred) + Vannmiljø;2;;1;annet;B2;pr;n;mdc
+Total biomasse planteplankton per volumenhet;NIVA (Birger Skjelbred) + Vannmiljø;2;;1;annet;B2;pr;n;mdc
+Cyanomax: Maksimalt volum av cyanobakterier i innsjøer;NIVA (Birger Skjelbred) + Vannmiljø;2;;1;annet;B3;fs?;n;mdc
+Kjemisk tilstand (god eller dårlig);Vann-nett;2;;1;;A2;;;
+Økologisk tilstand (nEQR);Vann-nett;2;;1;;X;;;

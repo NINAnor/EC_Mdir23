@@ -1,0 +1,17 @@
+Datakilde;Dev.status;Startar;Frekvens (ar);Romlig opplosning;ECT;Egenskap;Samsvar m/tilstand;Ref.verdi
+MDir;2;2019;5;fylke/region;B1a;fs;p;zer
+MDir & NINA;1;1990;5;fylke/region;B1a;fb, fg;p;mod
+NINA;1;2015;1;fylke/region;B1a;fb, fg;p;exp
+MDir & NINA;2;1990;5;fylke/region;B1b;bm;p;na
+MDir;2;2019;5;fylke/region;A1;af;u;mod
+MDir;2;2019;5;fylke/region;B3;af;u;mod
+NINA (Joachim Töpper);2;2019;5;fylke/region;A2;fg, bm;u;mod
+MDir;1;2019;5;fylke/region;A1;af;n;mod
+MDir;2;2019;5;fylke/region;A2;pr, af;u;mod
+MDir & NINA;1;2017;1;ingen (nasj);B1a;fb, fg, fs;u;mod
+NINA (Zander Venter);2;2010;;~10 m;B2;fs;n;mdc
+NASA*;2;2000;1;~100 m;B2;pr;u;mdc
+NASA*;1;2000;1;~100 m;B2;pr, fd;u;zer
+NINA (Anders Kolstad);2;2019;5;fylke/region;B3;pr;p;zer
+Statens kartverk*;2;2021;;ingen (nasj);C1;lm;u;mod
+MDir*;3;1988;5;fylke/region;C1;lm;p;zer

@@ -1,0 +1,24 @@
+i.name.no;Datakilde;Dev.status;Startar;Frekvens (ar);Romlig opplosning;ECT;Egenskap;Samsvar m/tilstand;Ref.verdi
+Areal uten tekniske inngrep;MDir*;1;1988;5;fylke/region;C1;lm;p;zer
+Minimum 7-døgns middelvannføring, sommer og vinter;Various institutes/consultancies + Vannmiljø;2;;1;annet;A1;af;p;exp
+Totalt fosfor (Tot-P);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Totalt nitrogen (Tot-N);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Ammoniakk og ammonium;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;exp?, mdc?
+Oksygen (O2);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;exp
+pH - innsjøer og elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;mdc
+Potensielt gift aluminium (LAl, UM-Al) - innsjøer og elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Vannets syrenøytraliserende kapasitet (ANC) - innsjøer og elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;mdc
+AIP: Forsuringsindeks for begroingsalger i elv;NIVA (Suzanne Schneider) + Vannmiljø;2;;1;annet;A2;bm;n;mdc
+PIT: Eutrofieringsindeks for begroingsalger i elv;NIVA (Suzanne Schneider) + Vannmiljø;2;;1;annet;A2;bm;n;mdc
+ASPT: Average Score Per Taxon - litorale bunndyr i elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+RAMI: Forsuringsindeks for litorale bunndyr i elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+Raddum forsuringsindeks-2 - litorale bunndyr i elver;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+Elvemusling (Margaritifera margaritifera) - terskelindikator i elv;NINA  + Vannmiljø;2;;1;annet;B1a;bm;??;exp
+HBI2: Heterotrof begroingsindeks for elv;NIVA  + Vannmiljø;2;;1;annet;A2;bm;n;mdc
+NEFI: Norsk endringsindeks for fisk - elver og innsjøer;NINA  + Vannmiljø;2;;1;annet;B1b;bm;p;mdc
+Bestandsendring fisk;NINA  + Vannmiljø;2;;1;annet;B1b;bm;n;mdc
+Tetthet av ungfisk i elver basert på laks og ørret;NINA  + Vannmiljø;2;;1;annet;B1a;bm;p;oth
+Fragmenteringsgrad (FG);Various institutes/consultancies + Vannmiljø;2;;1;annet;C1;lm;n;exp
+Barriereeffekt (BE);Various institutes/consultancies + Vannmiljø;2;;1;annet;C1;lm;n;exp
+Kjemisk tilstand (god eller dårlig);Vann-nett;2;;1;;A2;;;
+Økologisk tilstand (nEQR);Vann-nett;2;;1;;X;;;

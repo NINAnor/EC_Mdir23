@@ -1,0 +1,33 @@
+Datakilde;Dev.status;Startar;Frekvens (ar);Romlig opplosning;ECT;Egenskap;Samsvar m/tilstand;Ref.verdi
+MDir;2;2019;5;fylke/region;B1a;fs;p;zer
+MDir & NINA;2;2010;5;fylke/region;B1a;fb, fg;p;??
+MDir & NINA;2;1990;5;fylke/region;B1a;fb, fg;p;mod
+MDir & NINA;2;2010;1;kommune;B1a;fb, fg;p;sta (+mod)
+NINA;2;2015;1;fylke/region;B1a;fb, fg;p;exp
+MDir;1;2010;1;fylke/region;B1a;fb, fg;p;exp
+NINA (Jens Åström);2;2009;1;fylke/region;B1b;bm;p;exp
+NINA (Jens Åström);p2;2020;5;fylke/region;B1b;bm;p;??
+MDir & NINA;1;1990;5;fylke/region;B1b;bm;p;na
+MDir;2;2019;5;fylke/region;A1;af;u;mod
+MDir;2;2019;5;fylke/region;B3;af;u;mod
+NINA (Joachim Töpper);2;2019;5;fylke/region;A2;fg, bm;u;mod
+MDir;2;2019;5;fylke/region;A1;af;n;mod
+MDir;2;2019;5;fylke/region;A2;pr, af;u;mod
+NINA (Joachim Töpper);2;2019;5;fylke/region;A2;fg, bm;u;mod
+NINA (Joachim Töpper);p2;2019;5;fylke/region;B3;fg, bm;u;mod
+NINA (Joachim Töpper);2;2019;5;fylke/region;B3;fg, bm;u;mod
+NINA (Jens Åström);p2;2020;5;fylke/region;B1a;fs;p;??
+MDir;2;1990;1;fylke/region;B1a;fb, fg, fs;p;mod
+MDir & NINA;2;2017;1;ingen (nasj);B1a;fb, fg, fs;u;mod
+MDir & NINA;p1;1990;5;fylke/region;B1a;fb;u;mod
+NINA (Jens Åström);2;2009;1;fylke/region;B1b;bm;p;exp
+NINA (Jens Åström);p2;2020;5;fylke/region;B3;fs;p;??
+NINA (Jens Åström);p2;2020;5;fylke/region;B1b;fs;p;??
+NINA (Zander Venter);2;2010;;~10 m;B2;fs;n;mdc
+NASA*;2;2000;1;~100 m;B2;pr;u;mdc
+NASA*;1;2000;1;~100 m;B2;pr, fd;u;zer
+NINA (Anders Kolstad);2;2019;5;fylke/region;B3;pr;p;zer
+NTNU (James Speed);2;1999;10;kommune;B3;fb;u;mod
+NTNU (James Speed);2;1907;10;kommune;B3;fb;u;mod
+Statens kartverk*;1;2021;;ingen (nasj);C1;lm;u;mod
+MDir*;3;1988;5;fylke/region;C1;lm;p;zer

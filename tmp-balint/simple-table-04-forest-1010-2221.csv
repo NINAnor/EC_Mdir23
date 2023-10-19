@@ -1,0 +1,25 @@
+i.name.no;Datakilde;Dev.status;Startar;Frekvens (ar);Romlig opplosning;ECT;Egenskap;Samsvar m/tilstand;Ref.verdi
+Fravær av fremmede plantearter;MDir;2;2019;5;fylke/region;B1a;fs;p;zer
+Jerv;MDir & NINA;1;1990;5;fylke/region;B1a;fb, fg;p;mod
+Fjellrev;MDir & NINA;p1;2010;1;kommune;B1a;fb, fg;p;sta (+mod)
+Species richness of flying insects;NINA (Jens Åström);p2;2020;5;fylke/region;B1b;bm;p;??
+Naturindeks (modifisert);MDir & NINA;2;1990;5;fylke/region;B1b;bm;p;na
+Ellenberg F;MDir;2;2019;5;fylke/region;A1;af;u;mod
+Ellenberg L;MDir;1;2019;5;fylke/region;B3;af;u;mod
+Vegetasjonens varmekrav;MDir;1;2019;5;fylke/region;A1;af;n;mod
+Ellenberg N;MDir;2;2019;5;fylke/region;A2;pr, af;u;mod
+Blåbærdekning;NIBIO;3;2010;5;fylke/region;B1a;fs;p;mdc
+Rogn-osp-selje;NIBIO;3;1994;5;fylke/region;B1a;fs;p;mdc
+Total insektsbiomasse;NINA (Jens Åström);p2;2020;5;fylke/region;B1a;fs;p;??
+Store hjortedyr;MDir & NINA;3;1990;5;fylke/region;B1a;fb;u;mod
+Store rovdyr;MDir & NINA;3;1990;5;fylke/region;B1a;fb;p;mod
+Antall arter av pollinerende insekter;NINA (Jens Åström);p2;2020;5;fylke/region;B3;fs;p;??
+Antall arter møkkbiller;NINA (Jens Åström);p2;2020;5;fylke/region;B1b;fs;p;??
+Biologisk gammel skog;NIBIO;3;2000;5;fylke/region;B3;fs, lm;p;mod
+Død ved totalt;NIBIO;3;2010;5;fylke/region;B2;fs;p;mod
+Grov død ved;NIBIO;3;2010;5;fylke/region;B2;fs;p;mod
+Normalisert årlig maksimal NDVI;NASA*;3;2000;1;~100 m;B2;pr;u;mdc
+NDVI flerårig trend;NASA*;1;2000;1;~100 m;B2;pr, fd;u;zer
+Biomasse klovdyr;NTNU (James Speed);p2;1999;10;kommune;B3;fb;u;mod
+Biomasse rovdyr;NTNU (James Speed);p2;1907;10;kommune;B3;fb;u;mod
+Areal uten tekniske inngrep;MDir*;3;1988;5;fylke/region;C1;lm;p;zer

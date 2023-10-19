@@ -1,0 +1,15 @@
+i.name.no;Datakilde;Dev.status;Startar;Frekvens (ar);Romlig opplosning;ECT;Egenskap;Samsvar m/tilstand;Ref.verdi
+Siktedyp;Various institutes/consultancies + Vannmiljø;2;;1;annet;A1;af;p;mdc
+Totalt fosfor (Tot-P);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Fosfat (PO4) - kystvann;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Totalt nitrogen (Tot-N);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Ammoniakk og ammonium;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;exp?, mdc?
+Nitrat(NO3)+nitritt (NO2) - kystvann;Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;n;mdc
+Oksygen (O2);Various institutes/consultancies + Vannmiljø;2;;1;annet;A2;af;p;exp
+RSLA/RSL: Fjæresoneindeks for fastsittende alger (makroalger) i kystvann;NIVA + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+Ålegress - eutrofiering/organisk beslastning i kystvann;NIVA + Vannmiljø;2;;1;annet;A2;fs?;p;mdc
+Bløtbunnsfauna - eutrofiering/organisk beslastning/sedimentering i kystvann;NIVA + Vannmiljø;2;;1;annet;A2;bm;p;mdc
+Klorofyll planteplankton;NIVA (Birger Skjelbred) + Vannmiljø;2;;1;annet;B2;pr;n;mdc
+MSMDI: Nedre voksegrenseindeks for fastsittende alger (makroalger) i kystvann;NIVA + Vannmiljø;2;;1;annet;B2;??;p;mdc
+Kjemisk tilstand (god eller dårlig);Vann-nett;2;;1;;A2;;;
+Økologisk tilstand (nEQR);Vann-nett;2;;1;;X;;;

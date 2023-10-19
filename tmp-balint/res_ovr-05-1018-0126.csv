@@ -1,0 +1,36 @@
+ect,gg,st.a,st.b,st.c,st.e,st.f,st.g,st.h,st.j,st.k,st.i,st.l,st.m,mv.a,mv.b,mv.c,mv.e,mv.f,mv.g,mv.h,mv.j,mv.k,mv.i,mv.l,mv.m
+A1,A1 | Mean temperature,,,2,1,2,1',1,,,1',1',,,,,,,,,,,,,
+A1,A1 | Permanent ice cover,,,,,,3',,,,,,,,,,,,v,,,,,,
+A1,A1 | Soil physical quality,2,,,,,,,,,2',,,v,,,,,,,,,M,,
+A1,A1 | Water physical availability/permanence,,,2,3,2,1',2,2,2,1',1',,,v,,v,v,,v,v,,,,
+A1,A1 | Water physical quality,,,,,,,,,2,,2',2,,,,,,,,,,,,v
+A2,A2 | Air chemical quality,2,,,,,,,,,2',,,v,,,,,,,,,,,
+A2,A2 | Soil chemical quality,,,2,3,2,1',2,,,1',1',,,v,,,,,,,,,,
+A2,A2 | Soil organic carbon,,1,1',1,,,,,,,,,,M,M,v,v,,,,,,,
+A2,A2 | Water chemical quality: acidification,,,,,,,,2,2,,,,,,,,,,,,,,,v
+A2,A2 | Water chemical quality: eutrophication,,,,,,,,2,2,,2',2,,,,,,,,v,v,,v,
+A2,A2 | Water chemical quality: other pollutants,,,,,,,,2,2,,2',2,,,,,,,,v,v,,,
+B1a B1b,B1a B1b | Fish+ abundance & diversity,,,,,,,,2,2,,,,,,,,,,,v,v,,,
+B1a B1b,B1a B1b | Insect abundance & diversity,,,2',2',2,1',,,,1',,,,,v,,,,,,,,,
+B1a B3,B1a B3 | Functions underlying key ES,,,2',2',2',,,,2,,,,v,v,,,,,,,,,,v
+B1a,B1a | Birds abundance & diversity,,2,2',1,2,2',2,,,2',2',,,M,M,v,v,,v,,,v,,
+B1a,B1a | Invasive species abundance,,,2',3,2,2',2,,,2',,,,,,,,v,,,,,,v
+B1a,B1a | Mammals abundance,,,2',3,2,2',,,,2',,,,,,,,,,,,,,
+B1a,B1a | Plants abundance,,,,3,,,,,,,,,,,,,,,,,,,,
+B1b,B1b | Overall compositional status,,,1',3,1,1',1,1,1,1',1,1,,,,,,,,v,v,v,v,v
+B2,"B2 | Deadwood, litter",,,,3,,,,,,,,,,,,M,,,,,,,,
+B2,B2 | Phytoplankton density,,,,,,,,,2,,2',2,,,,,,,,v,v,,v,
+B2,B2 | Share of deciduous trees,,,,1',,,,,,,,,,,,,,,,,,,,
+B2,B2 | Total vegetation cover,2,,2,3,2,1',2,,,2,,,M,,,v,v,v,,,,,,
+B2,B2 | Tree & shrub layer cover,2,,2',1,2,,2,,,2',,,v,,,M,,,,,,,,
+B3,B3 | Ecosystem age,,,2,3,2,1',2,,,1',1',,,,,,,,,,,,,
+B3,B3 | Farming intensity,,1,1',,,,,,,,,,,v,v,,,,,,,,,
+B3,B3 | Fire frequency / intensity,,,,1,,,,,,,,,,,,,v,,,,,,,
+B3,B3 | Grazing intensity,,,2,,2,1',,,,1',,,,,,,,,,,,,,
+B3,B3 | Soil disturbance,,,2,,2,2',2,,,2',,,,,,,,,,,,,,v
+B3,B3 | Trophic balance,,,2,2,2,2',1,,,2',1',,,,,,,,,,,,,
+C1,C1 | Landscape connectivity & fragmentation,,,1',2,1,1,2,2,,2',2',,,,,v,v,,,v,,,,
+C1,C1 | Landscape naturalness,,,1',3,1,1,3,,,3',3',,,,,v,v,,,,,,,
+,| Agricultural landscape features,,,,,,,,,,,,,,v,v,,,,,,,,,
+,| Air physical quality,,,,,,,,,,,,,M,,,,,,,,,,,
+,| Ecosystem productivity,,,,,,,,,,,,,,,v,,,,,,,,,
