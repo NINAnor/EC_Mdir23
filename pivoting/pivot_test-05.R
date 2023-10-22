@@ -109,12 +109,14 @@ for (ii in lkp.et.eu$et) {
     # mutate(i.cpl2b= if_else(i.cpl2=="", "yes","no")) %>%
     mutate(d.spat.res2b= l2.spat.res[d.spat.res2] %>% unname) %>%
     mutate(ET.estat= str_c(ii, ": ", h.lkp(ii, select(lkp.et.eu,et,et6)))) %>%
+    mutate(i.comments.all=str_c(main.comments, "###", comments.from.notes, sep=" ")) %>%
     select(ET.estat, i.id0, i.name.no, 
            # Dev.status=.st, 
            Datakilde= i.host, `Startar`= d.startdate2, 
            `Frekvens (ar)`= d.temp.res2, `Romlig opplosning`= d.spat.res2b, 
            ECT= cls, Egenskap= ect.no, `Samsvar m/tilstand`= r.dir, 
-           Ref.verdi= r.opt) 
+           Ref.verdi= r.opt,
+           i.description, i.cpl, i.comments.all) 
   out1 <- bind_rows(out1, tmp) 
   }
 
