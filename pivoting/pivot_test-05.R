@@ -94,6 +94,8 @@ if (FALSE) { # optional testing phase...
   dat1 %>% select("i.name.no") %>% head %>% write_csv("tmp-balint/test.csv") #UTF8-ban vannak a szovegek, excelben nem jol nyilik :(
   }
 
+dat1 %>% saveRDS("dat1.rds")
+
 
 ###
 ### quick dumps from the metadb (following the structure of Erik's demo forest table)
@@ -146,6 +148,8 @@ est1 <- est0 %>% #cleanup
   mutate(all="all") %>% # aux col putting all ECTs in a single group 
   {.}
 # est1 %>% select(r.dir2) %>% map(table)
+
+est1 %>% saveRDS("est1.rds")
 
 
 ###
